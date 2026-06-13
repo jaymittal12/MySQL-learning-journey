@@ -5,7 +5,7 @@ This repository documents my SQL learning journey.
 ## Topics Covered
 
 ### Basics
-- [ ] SELECT
+- [x] SELECT
 - [ ] WHERE
 - [ ] ORDER BY
 - [ ] LIMIT
